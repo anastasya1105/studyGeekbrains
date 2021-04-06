@@ -1,0 +1,196 @@
+javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main (String [] args) {
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+        System.out.println("JavaRush. Learn once - use  anywhere");
+    } aaaj
+}
+1.4.2
+package com.javarush.task.task01.javarush.task.task0114;
+/*
+ */
+public class Solution {
+    public static void main (String [] args) {
+        String s = "Merry";
+        //System.out.println("Christmas");
+        //System.out.println("Merry New");
+        //System.out.println("weekend");
+        System.out.print("Happy New");
+        //System.out.println("weekend");
+        //System.out.println(s);
+        //System.out.print("Merry New!");
+        System.out.print(" ");
+        System.out.println("Year");
+    }
+}
+
+1.4.3
+package com.javarush.task.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main (String [] args) {
+	String name = "Amigo";
+	String text = "Hello, " + name + "!";
+	System.out.println(text);
+	}
+}
+1.4.4
+package com.javarush.task.task01.task0114javarush.task.;
+/*
+ */
+public class Solution {
+    public static void main (String [] args) {
+        String string1 = "Coding";
+        String string2 = "in";
+        String string3 = "java";
+        System.out.println(string1 + " " + string2 + " " + string3);
+    }
+}
+1.4.5
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main (String [] args) {
+        int a = 3;
+        //int a = 10;
+        int b = 6;
+        //int b = 12;
+        //int sum = 1 + a + b;
+        //int sum = 2 + a + b;
+        int sum = 3 + a + b;
+        //int sum = 4 + a + b;
+        System.out.println("sum = " + sum);
+    }
+}
+1.4.6
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main (String [] args) {
+        String name = "Amigo";
+        int age = 15;
+        int money = 500;
+        int weight = 70;
+
+    }
+}
+1.4.7
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static int a = 1;
+    public static int b = 3;
+    public static int c = 9;
+    public static int d = 27;
+
+    public static void main(String[] args) {
+        int result = - a + b - c + d;
+
+        System.out.println(result);
+}
+}
+1.5.1
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main(String[] args) {
+        System.out.println("Поцелуй мой блестящий металлический зад!");
+}
+}
+1.6.1
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main(String[] args) {
+        System.out.println("Меня зовут Амиго.");
+        System.out.println(" ");
+        System.out.println("Я согласен на зарплату $800/месяц в первый год.");
+        System.out.println("Я согласен на зарплату $1500/месяц во второй год.");
+        System.out.println("Я согласен на зарплату $2200/месяц в третий год.");
+        System.out.println("Я согласен на зарплату $2700/месяц в четвертый год.");
+        System.out.println("Я согласен на зарплату $3200/месяц в пятый год.");
+        System.out.println(" ");
+        System.out.println("Поцелуй мой блестящий металлический зад!");
+}
+}
+1.7.1
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main(String[] args) {
+        System.out.println("Amigo is the best!");
+        System.out.println("Amigo" + " is the best!");
+        System.out.println("Amigo" + " " + "is the best!");
+}
+}
+1.7.2
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main(String[] args) {
+        int a = 56;
+        int b = 30;
+        int c = 14;
+        System.out.println(a + b + c);
+}
+}
+1.7.3
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 15;
+        double c = b + 38;
+        //int d = a + 12;
+        //double e = 12.3;
+        String s = "s" + a;
+        String s1 = a + "b";
+        //String s2 = "a";
+        String s3 = s1 + "a";
+        String s4 = s3 + "b";
+        System.out.println(c + s4 + s);
+}
+}
+1.8.1
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main(String[] args) {
+        //String s = "15";
+        int a = 5;
+        //int z = 18;
+        int d = 18;
+        int c = a + d;
+        String b = " is better than ";
+        System.out.println(a + b + c);
+}
+}
+1.8.2
+package com.javarush.task.task01.task0114;
+/*
+ */
+public class Solution {
+    public static void main(String[] args) {
+        }
+}

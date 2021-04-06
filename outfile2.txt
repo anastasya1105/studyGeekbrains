@@ -1,0 +1,59 @@
+1 PART
+Лекция 1.3
+1 .
+int a = 5;
+int b = 8;
+String s = "Hello";
+2.
+
+4 PART
+
+public class Solution {
+    public static void main(String[] args) {
+        Dog dog1 = new Dog();
+        dog1.name = "Max";
+
+        Dog dog2 = new Dog();
+        dog2.name = "Bella";
+
+        Dog dog3 = new Dog();
+        dog3.name = "Jack";
+    }
+    public static class Dog {
+        public String name;
+    }
+}
+
+2 PART
+
+public class Solution {
+    public static void main(String[] args) {
+        Dog dog1 = new Dog();
+        dog1.name = "Max";
+
+        Dog dog2 = new Dog();
+        dog2.name = "Bella";
+
+        Dog dog3 = new Dog();
+        dog3.name = "Jack";
+    }
+    public static class Dog {
+        public String name;
+    }
+3 PART
+
+public class Solution {
+    public static void main(String[] args) {
+        Dog dog1 = new Dog();
+        dog1.name = "Max";
+
+        Dog dog2 = new Dog();
+        dog2.name = "Bella";
+
+        Dog dog3 = new Dog();
+        dog3.name = "Jack";
+    }
+    public static class Dog {
+        public String name;
+    }
+}
